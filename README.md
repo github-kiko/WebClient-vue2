@@ -1,2 +1,19 @@
-# WebClient-vue2
-该项目为前端项目，技术栈为vue2。
+# dongdong
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
